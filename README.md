@@ -1,6 +1,6 @@
-#ZENTECHS JAVA PROGRAMMING INTERNSHIP 
+# ZENTECHS JAVA PROGRAMMING INTERNSHIP 
 
-TASK1: STUDENT GRADE CALCULATOR
+## TASK1: STUDENT GRADE CALCULATOR
 Input: Take marks obtained (out of 100) in each subject.
 Calculate Total Marks: Sum up the marks obtained in all subjects.
 Calculate Average Percentage: Divide the total marks by the total
@@ -10,7 +10,7 @@ achieved.
 Display Results: Show the total marks, average percentage, and the
 corresponding grade to the user
 
-TASK2: COUNTDOWN TIMER
+## TASK2: COUNTDOWN TIMER
 Develop an interactive countdown timer application that
 prompts users to input a start time, and optionally, an end time.
 Utilize the specified start time and end time (if provided) to
@@ -20,7 +20,7 @@ time until it reaches zero, indicating the end of the countdown.
 Ensure the application handles invalid input gracefully,
 providing appropriate error messages.
 
-TASK3: CALCULATOR
+## TASK3: CALCULATOR
 Develop a basic calculator that prompts the user to input two
 numbers and an arithmetic operation (+, -,
 *
